@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="sc-registry-server" />
-        <module name="sc-config-client" />
+        <module name="sc-circuit-br-client" />
+        <module name="sc-circuit-br-server" />
         <module name="sc-global-config" />
+        <module name="sc-registry-server" />
         <module name="sc-registry-client" />
         <module name="sc-config-server" />
+        <module name="sc-config-client" />
       </profile>
     </annotationProcessing>
   </component>

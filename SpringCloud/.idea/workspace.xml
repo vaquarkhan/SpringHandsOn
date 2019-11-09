@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eb0c260b-0203-4845-b694-d35cda19dcb5" name="Default Changelist" comment="" />
+    <list default="true" id="eb0c260b-0203-4845-b694-d35cda19dcb5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/sc-circuit-br-client/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sc-circuit-br-client/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sc-circuit-br-client/src/main/java/sc/cirbuit/br/client/CircuitBrClientAppMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sc-circuit-br-client/src/main/java/sc/cirbuit/br/client/web/ToDoClientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sc-circuit-br-server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sc-circuit-br-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sc-circuit-br-server/src/main/java/sc/cirbuit/br/server/CircuitBrServerAppMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sc-circuit-br-server/src/main/java/sc/cirbuit/br/server/web/ToDoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sc-global-config/src/main/resources/application-circuit-br-client.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sc-global-config/src/main/resources/application-circuit-br-server.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sc-global-config/src/main/resources/application-registry-client.properties" beforeDir="false" afterPath="$PROJECT_DIR$/sc-global-config/src/main/resources/application-registry-client.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sc-global-config/src/main/resources/application-registry-server.properties" beforeDir="false" afterPath="$PROJECT_DIR$/sc-global-config/src/main/resources/application-registry-server.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sc-registry-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sc-registry-client/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sc-registry-client/src/main/java/sc/registry/client/RegistryClientAppMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/sc-registry-client/src/main/java/sc/registry/client/RegistryClientAppMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sc-registry-client/src/main/java/sc/registry/client/web/DiscoveryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/sc-registry-client/src/main/java/sc/registry/client/web/DiscoveryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sc-registry-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sc-registry-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sc-registry-server/src/main/java/sc/registry/server/RegistryServerAppMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/sc-registry-server/src/main/java/sc/registry/server/RegistryServerAppMain.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/sc-config-server/target/" />
@@ -9,6 +31,8 @@
     <ignored path="$PROJECT_DIR$/sc-global-config/target/" />
     <ignored path="$PROJECT_DIR$/sc-registry-server/target/" />
     <ignored path="$PROJECT_DIR$/sc-registry-client/target/" />
+    <ignored path="$PROJECT_DIR$/sc-circuit-br-server/target/" />
+    <ignored path="$PROJECT_DIR$/sc-circuit-br-client/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +46,52 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sc-circuit-br-client/src/main/java/sc/cirbuit/br/client/CircuitBrClientAppMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#783#784#0" expanded="true" />
+                <element signature="e#821#822#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sc-circuit-br-client/src/main/java/sc/cirbuit/br/client/web/ToDoClientController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="121">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sc-global-config/src/main/resources/application-circuit-br-client.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="49" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sc-circuit-br-client/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -51,7 +120,6 @@
         <option value="$PROJECT_DIR$/sc-config-client/src/main/java/sc/config/client/web/MessageController.java" />
         <option value="$PROJECT_DIR$/sc-global-config/src/main/resources/application-registry-server.properties" />
         <option value="$PROJECT_DIR$/sc-registry-server/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/sc-registry-server/src/main/java/sc/registry/server/RegistryServerAppMain.java" />
         <option value="$PROJECT_DIR$/sc-global-config/src/main/resources/application-registry-client.properties" />
         <option value="$PROJECT_DIR$/sc-registry-client/src/main/java/sc/registry/client/RegistryClientAppMain.java" />
@@ -61,6 +129,16 @@
         <option value="$PROJECT_DIR$/sc-config-client/.gitignore" />
         <option value="$PROJECT_DIR$/sc-registry-client/.gitignore" />
         <option value="$PROJECT_DIR$/sc-registry-server/.gitignore" />
+        <option value="$PROJECT_DIR$/sc-circuit-br-server/src/main/java/sc/cirbuit/br/server/CircuitBrAppMain.java" />
+        <option value="$PROJECT_DIR$/sc-circuit-br-server/src/main/java/sc/cirbuit/br/server/CircuitBrServerAppMain.java" />
+        <option value="$PROJECT_DIR$/sc-circuit-br-server/src/main/java/sc/cirbuit/br/server/web/ToDoController.java" />
+        <option value="$PROJECT_DIR$/sc-global-config/src/main/resources/application-circuit-br-server.properties" />
+        <option value="$PROJECT_DIR$/sc-circuit-br-server/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-circuit-br-client/src/main/java/sc/cirbuit/br/client/CircuitBrClientAppMain.java" />
+        <option value="$PROJECT_DIR$/sc-circuit-br-client/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-circuit-br-client/src/main/java/sc/cirbuit/br/client/web/ToDoClientController.java" />
+        <option value="$PROJECT_DIR$/sc-global-config/src/main/resources/application-circuit-br-client.properties" />
       </list>
     </option>
   </component>
@@ -94,6 +172,157 @@
               <item name="sc-main" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="sc-main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="sc-circuit-br-client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sc-main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="sc-circuit-br-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sc-main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="sc-circuit-br-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sc-main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="sc-circuit-br-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sc-main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="sc-circuit-br-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sc-main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="sc-circuit-br-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sc-main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="sc-config-client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sc-main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="sc-config-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sc-main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="sc-config-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sc-main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="sc-config-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sc-main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="sc-config-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sc-main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="sc-config-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sc-main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="sc-global-config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sc-main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="sc-global-config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sc-main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="sc-global-config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sc-main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="sc-global-config" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sc-main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="sc-registry-client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sc-main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="sc-registry-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sc-main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="sc-registry-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sc-main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="sc-registry-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sc-main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="sc-registry-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -103,7 +332,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/sc-registry-server" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sc-global-config/src/main/resources" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -114,9 +343,11 @@
       <recent name="sc.config.server" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sc-global-config/src/main/resources" />
+      <recent name="$PROJECT_DIR$/sc-circuit-br-client" />
+      <recent name="$PROJECT_DIR$/sc-circuit-br-server" />
       <recent name="$PROJECT_DIR$/sc-registry-server" />
       <recent name="$PROJECT_DIR$/sc-registry-client" />
-      <recent name="$PROJECT_DIR$/sc-global-config/src/main/resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -131,13 +362,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RegistryClientAppMain">
-    <configuration name="ConfigClientAppMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sc.config.client.ConfigClientAppMain" />
-      <module name="sc-config-client" />
+  <component name="RunManager" selected="Application.CircuitBrClientAppMain">
+    <configuration name="CircuitBrClientAppMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sc.cirbuit.br.client.CircuitBrClientAppMain" />
+      <module name="sc-circuit-br-client" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sc.config.client.*" />
+          <option name="PATTERN" value="sc.cirbuit.br.client.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +376,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConfigServerAppMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sc.config.server.ConfigServerAppMain" />
-      <module name="sc-config-server" />
+    <configuration name="CircuitBrServerAppMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sc.cirbuit.br.server.CircuitBrServerAppMain" />
+      <module name="sc-circuit-br-server" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sc.config.server.*" />
+          <option name="PATTERN" value="sc.cirbuit.br.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigClientAppMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sc.config.client.ConfigClientAppMain" />
+      <module name="sc-config-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sc.config.client.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,10 +430,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CircuitBrClientAppMain" />
+        <item itemvalue="Application.CircuitBrServerAppMain" />
         <item itemvalue="Application.RegistryClientAppMain" />
         <item itemvalue="Application.RegistryServerAppMain" />
         <item itemvalue="Application.ConfigClientAppMain" />
-        <item itemvalue="Application.ConfigServerAppMain" />
       </list>
     </recent_temporary>
   </component>
@@ -208,6 +453,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="43" width="1346" height="705" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25383437" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -219,7 +465,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32952693" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32952693" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.5040783" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -267,54 +513,6 @@
     <entry file="file://$PROJECT_DIR$/sc-config-server/sc-config-server.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/sc-config-server/src/main/java/sc/config/server/ConfigServerAppMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sc-config-client/src/main/java/sc/config/client/ConfigClientAppMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sc-config-server/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="82" column="48" selection-start-line="82" selection-start-column="48" selection-end-line="82" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sc-global-config/src/main/resources/application-config-server.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="29" selection-start-column="29" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sc-global-config/src/main/resources/application-config-client.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sc-config-client/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="215">
@@ -333,40 +531,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sc-config-client/src/main/java/sc/config/client/web/MessageController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sc-registry-client/src/main/java/sc/registry/client/RegistryClientAppMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="44" lean-forward="true" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sc-global-config/src/main/resources/application-registry-server.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sc-global-config/src/main/resources/application-registry-client.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -418,6 +582,166 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sc-registry-server/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sc-config-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="49" column="12" selection-start-line="35" selection-start-column="3" selection-end-line="49" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sc-circuit-br-client/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sc-circuit-br-server/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sc-global-config/src/main/resources/application-config-server.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sc-global-config/src/main/resources/application-registry-server.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sc-global-config/src/main/resources/application-registry-client.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="11" lean-forward="true" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sc-global-config/src/main/resources/application-config-client.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="45" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sc-circuit-br-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="92" selection-start-line="92" selection-end-line="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sc-global-config/src/main/resources/application-circuit-br-server.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sc-circuit-br-server/src/main/java/sc/cirbuit/br/server/web/ToDoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="34" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#671#672#0" expanded="true" />
+            <element signature="e#705#706#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sc-circuit-br-server/src/main/java/sc/cirbuit/br/server/CircuitBrServerAppMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sc-config-server/src/main/java/sc/config/server/ConfigServerAppMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sc-config-client/src/main/java/sc/config/client/ConfigClientAppMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sc-registry-client/src/main/java/sc/registry/client/RegistryClientAppMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="9" column="109" lean-forward="true" selection-start-line="9" selection-end-line="9" selection-end-column="109" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sc-circuit-br-client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sc-circuit-br-client/src/main/java/sc/cirbuit/br/client/CircuitBrClientAppMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#783#784#0" expanded="true" />
+            <element signature="e#821#822#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sc-config-client/src/main/java/sc/config/client/web/MessageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sc-circuit-br-client/src/main/java/sc/cirbuit/br/client/web/ToDoClientController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sc-global-config/src/main/resources/application-circuit-br-client.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="49" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">

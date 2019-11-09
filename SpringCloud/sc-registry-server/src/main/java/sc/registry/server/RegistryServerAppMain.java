@@ -13,7 +13,7 @@ public class RegistryServerAppMain {
     public static void main(String args[]) {
 
         SpringApplication app = new SpringApplication(RegistryServerAppMain.class);
-        app.setAdditionalProfiles(new String[] { "registry-server"});
+        app.setAdditionalProfiles(new String[]{"registry-server"});
 
         app.run(args);
     }
